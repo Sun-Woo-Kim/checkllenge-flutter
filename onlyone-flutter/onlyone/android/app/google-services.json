@@ -1,0 +1,86 @@
+{
+  "project_info": {
+    "project_number": "425704388341",
+    "project_id": "checkllenge",
+    "storage_bucket": "checkllenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425704388341:android:2e04ee328b4493beacb7bc",
+        "android_client_info": {
+          "package_name": "com.onlyone.checkllenge"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425704388341-1rld1bvrv7ej4f6nplbqln4flgi84l71.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlyone.checkllenge",
+            "certificate_hash": "a7bb3253e6fdd8292f4e10fdf3535fffc9e007f4"
+          }
+        },
+        {
+          "client_id": "425704388341-65a8vr1klptv78umjbckdipoiouoqrv9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlyone.checkllenge",
+            "certificate_hash": "df44d6393c8ecef910350e158ca7a5a42eb13ba9"
+          }
+        },
+        {
+          "client_id": "425704388341-lmabrb65ihdqaf1loavu4ip289f9ad9j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlyone.checkllenge",
+            "certificate_hash": "fc22c3f354ffbde2e534055f817dd4c1599cc1b0"
+          }
+        },
+        {
+          "client_id": "425704388341-tmi43f0a07l5rq8qojpst95hvckr9qcl.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlyone.checkllenge",
+            "certificate_hash": "1bf522a64ca9df4a51ade3670ee552ff2d80fb41"
+          }
+        },
+        {
+          "client_id": "425704388341-vig6pmmk50j6dufuv5t2b4bmes4rg104.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onlyone.checkllenge",
+            "certificate_hash": "667e65244f9562485f50f8bda05930ce5f7dc5b9"
+          }
+        },
+        {
+          "client_id": "425704388341-ud5goj8pqdhvd9jbdqilgssngndo9gfh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBedbryJiIyGehLEY9eM0XigOk8dn1W0aw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425704388341-ud5goj8pqdhvd9jbdqilgssngndo9gfh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425704388341-avsni9rp17miptg5p4pgefo59iiepo4k.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.onlyone.checkllenge"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

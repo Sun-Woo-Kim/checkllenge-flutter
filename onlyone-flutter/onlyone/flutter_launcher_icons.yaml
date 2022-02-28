@@ -1,0 +1,9 @@
+# [ 만드는 명령어 ]
+# flutter pub run flutter_launcher_icons:main
+
+# https://changjoopark.medium.com/flutter-%EC%95%84%EC%9D%B4%EC%BD%98-%EB%B0%94%EA%BE%B8%EA%B8%B0-910a4bc642a9
+# https://pub.dev/packages/flutter_launcher_icons
+flutter_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"

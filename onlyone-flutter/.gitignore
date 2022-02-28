@@ -1,0 +1,8 @@
+onlyone/android/key.json
+onlyone/ios/Runner.app.dSYM.zip
+*.ipa
+.vscode/
+onlyone/ios/Runner.app.dSYM.zip
+onlyone/ios/Runner.ipa
+onlyone/pubspec.lock
+*.lock
